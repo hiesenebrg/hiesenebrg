@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **adarshsingh8008@gmail.com**
 
-- 📄 Know about my experiences [https://hiesenebrg.w3spaces.com](https://hiesenebrg.w3spaces.com)
+- 📄 Know about my experiences [[https://hiesenebrg.w3spaces.com](https://adarshsinghportfolio.netlify.app/)]
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
